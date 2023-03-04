@@ -6,8 +6,8 @@ This is the home of Asterism. Here you will find hidden features, and more.
 ## Members of Asterism
 
 As a member of Asterism, you'll be given a role:
-- 🟀 - Tier $\{\color{lightgreen}{C}}$
-- 🟄 - Tier $\{\color{cyan}{B}}$
-- 🟉 - Tier $\{\color{purple}{A}}$
-- ⚝ - Tier $\{\color{gold}{S}}$
+- 🟀 - Tier C
+- 🟄 - Tier B
+- 🟉 - Tier A
+- ⚝ - Tier S
 
